@@ -9,6 +9,8 @@ You can view the scikit-learn notebook by clicking the following image:
 
 <a href="https://nbviewer.org/github/Panachaijames/EmergingTechAssignment/blob/main/scikit-learn.ipynb">![image](https://user-images.githubusercontent.com/48323518/147769928-1d028eb5-6037-4b8e-b97c-4825350fb8ab.png)</a>
 
+Viewing with binder is unavailible as it just show requirement.txt on there and have no idea how it happen.
+
 You can view the quantum-deutsch notebook by clicking the following image:
 
 <a href="https://nbviewer.org/github/Panachaijames/EmergingTechAssignment/blob/main/quantum-deutsch.ipynb">![image](https://user-images.githubusercontent.com/48323518/147769928-1d028eb5-6037-4b8e-b97c-4825350fb8ab.png)</a>
