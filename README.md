@@ -21,4 +21,5 @@ Download <a href="https://www.anaconda.com/products/individual">Anacanda</a> Ana
 Download <a href="https://cmder.net/">cmder</a> if on Windows <br><br>
 Clone this repository in the prefered folder <br><br>
 Open folder in Cmder<br><br>
-Run juypter lab
+Run jupyter lab
+*If you want to run through Docker, then download docker and run docker-compose up command instead of jupyter lab
